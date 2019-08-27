@@ -1,0 +1,11 @@
+/* pages/index/index.wxss */
+.goOut{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: greenyellow;
+  text-align: center;
+  line-height: 100px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
